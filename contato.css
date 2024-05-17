@@ -1,0 +1,28 @@
+#destaque{
+    color: red;
+}
+
+.main{
+    text-align: center;
+    padding: 50px;
+}
+
+h1{
+    text-align: center;
+}
+
+.contato{
+    padding: 50px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+.contato p{
+    text-align: center;
+    font-size: 22px;
+}
+
+.contato img{
+    width: 25px;
+}
